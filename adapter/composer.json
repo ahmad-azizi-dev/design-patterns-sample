@@ -1,0 +1,16 @@
+{
+
+  "authors": [
+    {
+      "name": "admad",
+      "email": "ahmad.azizi.dev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Acme\\": "src"
+    }
+  },
+  "require": {
+  }
+}
